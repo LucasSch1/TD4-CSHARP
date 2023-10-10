@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\bin\Debug\SCHNELZAUER_Lucas-TD4.exe.config
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\bin\Debug\SCHNELZAUER_Lucas-TD4.exe
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\bin\Debug\SCHNELZAUER_Lucas-TD4.pdb
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\obj\Debug\SCHNELZAUER_Lucas-TD4.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\obj\Debug\SCHNELZAUER_Lucas-TD4.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\obj\Debug\SCHNELZAUER_Lucas-TD4.exe
+C:\Users\lucas\source\repos\SCHNELZAUER_Lucas-TD4\SCHNELZAUER_Lucas-TD4\obj\Debug\SCHNELZAUER_Lucas-TD4.pdb
